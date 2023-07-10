@@ -6,6 +6,10 @@
   padding: 0;
 }
 
+body{
+  margin-left: 10px ;
+}
+
 /* body{
   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 } */
@@ -26,6 +30,9 @@ th{
   color: white;
 }
 
+table{
+  margin-bottom: 40px;
+}
 
 /********************** HEADER ********************************/
 
@@ -39,7 +46,6 @@ header{
 header img{
   margin-top: 40px;
   margin-bottom: 10px;
-  margin-left: 10px;
   width: 12%;
   height: 50%;
 }
@@ -49,7 +55,6 @@ header img{
 
 main{
   margin-top: 16px;
-  margin-left: 10px;
 }
 
 .color-p{
@@ -72,4 +77,14 @@ main{
 
 .color-blue{
   background-color: #b1e5f2;
+}
+
+/********************************* FOOTER  *************************/
+
+footer p{
+  color: #979898;
+}
+
+footer img{
+  margin-bottom: 20px;
 }
