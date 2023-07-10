@@ -1,14 +1,14 @@
 /*********************** GENERAL ****************************/
 
 /* reset */
-*{
+ *{
   margin: 0;
   padding: 0;
-} 
-
-body{
-  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
+
+/* body{
+  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+} */
 
 strong{
   color: #6cb0ff;
@@ -68,4 +68,8 @@ main{
 
 .div-margin{
   margin: 20px;
+}
+
+.color-blue{
+  background-color: #b1e5f2;
 }
