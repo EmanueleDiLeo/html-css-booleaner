@@ -10,8 +10,12 @@ body{
   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
 }
 
-spam, strong{
+strong{
   color: #6cb0ff;
+}
+
+spam{
+  background-color: yellow;
 }
 
 
@@ -48,4 +52,12 @@ main{
 
 .container-intro p{
   font-size: 0.8rem;
+}
+
+.section-margin{
+  margin: 20px  0px;
+}
+
+.div-margin{
+  margin: 20px;
 }
