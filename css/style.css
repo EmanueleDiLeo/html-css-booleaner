@@ -4,7 +4,7 @@
 *{
   margin: 0;
   padding: 0;
-}
+} 
 
 body{
   /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
@@ -16,6 +16,14 @@ strong{
 
 spam{
   background-color: yellow;
+}
+
+thead{
+  background-color: #23a9e5;
+}
+
+th{
+  color: white;
 }
 
 
