@@ -6,6 +6,14 @@
   padding: 0;
 }
 
+body{
+  /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+}
+
+spam, strong{
+  color: #6cb0ff;
+}
+
 
 /********************** HEADER ********************************/
 
@@ -24,3 +32,20 @@ header img{
   height: 50%;
 }
 
+
+/************************ MAIN  ****************************************/
+
+main{
+  margin-top: 16px;
+  margin-left: 10px;
+}
+
+.color-p{
+  color: #979898;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.container-intro p{
+  font-size: 0.8rem;
+}
