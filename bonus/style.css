@@ -7,8 +7,8 @@
 }
 
 main, footer{
-  margin-left: 20px;
-  margin-right: 20px; 
+  margin-left: 200px;
+  margin-right: 200px; 
 }
 
 strong{
@@ -46,7 +46,7 @@ header{
 header img{
   margin-top: 40px;
   margin-bottom: 10px;
-  margin-left: 20px;
+  margin-left: 180px ;
   width: 12%;
   height: 50%;
 }
